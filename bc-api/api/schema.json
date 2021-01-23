@@ -1,0 +1,13 @@
+{
+  "storeContractInfo": {
+    "post": {
+      "id": "/store_contract_api",
+      "type": "object",
+      "properties": {
+        "Id":    { "type": "int" },
+        "Name" : { "type" : "string" }
+      },
+      "required": ["Id", "Name"]
+    }
+  }
+}
