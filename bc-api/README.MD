@@ -20,8 +20,9 @@ node index.js
 
 
 ## test
+<pre>
 bash test_set.sh
 bash test_get.sh
-
+</pre>
 
 
